@@ -1,5 +1,5 @@
-# error-layout
-The source files for FOSSBilling's error page.
+# [WIP] error-layout
+The source files for FOSSBilling's error page. Not implemented to the core software yet.
 ![Preview screenshot](https://user-images.githubusercontent.com/35808275/181360799-6bcfe059-9742-45d1-9061-eeeac7044e43.png)
 
 # How to implement it to FOSSBilling
