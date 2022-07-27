@@ -9,3 +9,9 @@ Currently, the part that handles the error and renders the error page is a littl
 3. Edit `/bb-load.php` accordingly. This is the messy part.
 
 In the future, we should implement some kind of template system instead.
+
+# Acknowledgements
+* Heavily inspired by https://bunny.net/blog/building-better-error-pages/.
+
+## Licensing
+This extension is released under the Apache v2.0 license. See [LICENSE](https://github.com/FOSSBilling/error-layout/blob/master/LICENSE) for the full license terms.
